@@ -1,0 +1,5 @@
+- Context switching stores CPU state (registers, PC, etc.) in the PCB.
+- Preemptive scheduling allows interruption, non-preemptive does not.
+- Shortest Job First may cause starvation for longer processes.
+- System calls act as an interface between user space and kernel space.
+- IPC allows processes to communicate (pipes, shared memory, message queues).
