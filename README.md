@@ -173,5 +173,7 @@ cd KNOWLEDGEAI
 - Add Login/Signup to support multiple users securely
 - Allow Querying across multiple uploaded Documents at Once
 
+---  
+
 ### 👨‍💻 Author: Sameeksha Vaishnavi
 📄 MIT License – Feel free to use, modify and distribute!
