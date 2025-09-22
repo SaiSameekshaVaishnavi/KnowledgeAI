@@ -36,9 +36,6 @@ Ask questions about uploaded documents and get precise, context-aware answers.
     - 🧩 LangGraph  
     - 📦 Pinecone  
     - 🤖 Gemini LLM  
-
-🌐 **CORS Enabled**:
-Seamless communication between frontend and backend.
    
 ---
 
@@ -167,11 +164,6 @@ cd KNOWLEDGEAI
 - “I have uploaded a PDF about life, explain about life”
 - “Explain about necessities for a happy life”
 
----
-📌 TODOs / Improvements
-- Improve Document Summarization using Advanced LLM Techniques
-- Add Login/Signup to support multiple users securely
-- Allow Querying across multiple uploaded Documents at Once
 
 ---  
 
