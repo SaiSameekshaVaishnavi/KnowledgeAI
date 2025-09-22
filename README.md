@@ -23,19 +23,6 @@ Stores embeddings in Pinecone for fast and relevant similarity search.
 
 - 🔊 **Question Answering**:
 Ask questions about uploaded documents and get precise, context-aware answers.
-
-
-- **Frontend**  
-    - ⚛ React  
-    - 🟦 TypeScript  
-    - 🎨 TailwindCSS  
-
-- **Backend**  
-    - 🚀 FastAPI  
-    - 🔗 LangChain  
-    - 🧩 LangGraph  
-    - 📦 Pinecone  
-    - 🤖 Gemini LLM  
    
 ---
 
